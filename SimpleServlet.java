@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Servlet implementation class SimpleServlet hii  dgdgdgsd gdssdgs uday
+ * Servlet implementation class SimpleServlet hii  dgdgdgsd gdssdgs uday kiran
  */
 @WebServlet("/SimpleServlet")
 public class SimpleServlet extends HttpServlet {
